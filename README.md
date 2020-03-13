@@ -1,4 +1,4 @@
-# golddigger
+# escheat
 
 helping people find unclaimed funds
 
